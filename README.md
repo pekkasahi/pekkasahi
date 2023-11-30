@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm driving the GitHub business at Eficode!
+
+What is Eficode? It's the leading provider of DevOps solutions in Europe that drive real impact. With nearly 600 employees in 10 different countries, Eficode empowers organizations to create a software development culture that unlocks their potential with the right ways of working, the right tools, and the right skill set. Eficode provides customers DevOps and Agile skills and practices, and offers the Eficode ROOT Managed DevOps platform–a managed service with 50+ preferred tools (including GitHub and Kubernetes). Check it out: https://www.eficode.com/root-devops-platform
+
 <!--
 **pekkasahi/pekkasahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
